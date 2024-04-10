@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Chest-Cancer-Classification-Project"
-AUTHOR_USER_NAME = "entbappy"
+REPO_NAME = "MLOps-image-classification"
+AUTHOR_USER_NAME = "yifeng91"
 SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "entbappy73@gmail.com"
+AUTHOR_EMAIL = "yifengtian91@gmail.com"
 
 
 setuptools.setup(
